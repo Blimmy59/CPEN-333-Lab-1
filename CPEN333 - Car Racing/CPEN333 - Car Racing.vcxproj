@@ -23,6 +23,7 @@
     <ProjectGuid>{EFC8F3EA-2A2D-46E5-A301-46207A644A4F}</ProjectGuid>
     <RootNamespace>CPEN333CarRacing</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <ProjectName>CPEN333 - Q1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

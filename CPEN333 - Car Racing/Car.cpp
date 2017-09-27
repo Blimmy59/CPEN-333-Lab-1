@@ -2,14 +2,6 @@
 #include <iostream>
 #include "Car.h"
 #include "Physics.h"
-//
-//Car::Car(std::string model, double mass, double engine_force, double drag_area) {
-//	this->model = model;
-//	this->mass = mass;
-//	this->engine_force = engine_force;
-//	this->drag_area = drag_area;
-//}
-
 
 std::string Car::getModel() {
 	return model;

@@ -19,7 +19,7 @@ int main() {
 		car1.drive(dt);
 		car2.drive(dt);
 		// TODO: print out who's in the lead
-		std::cout << car1.getModel() << ": \n" << car1.getState() << "\n" << car2.getModel() << ": \n" << car2.getState() << std::endl;
+		std::cout << car1.getModel() << ": \n" << car1.getState() << "\n \n" << car2.getModel() << ": \n" << car2.getState()<< "\n" << std::endl;
 		
 	}
 	std::cin.get();
